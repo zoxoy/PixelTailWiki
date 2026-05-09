@@ -20,7 +20,7 @@ PixelTail 像素尾巴目前以模组服交替更换周目与不删档原版服�
 
 ## 永久周目 - PixelTail Neon
 
-<VidStack src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3" title="The Midnight - Endless Summer" />
+<VidStack src="//cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3" />
 
 :::important 
 根据游玩进度，本周目目前已经结束“发展”阶段，进入“建设”阶段，各种资源设施基本齐全，无限建筑资源点已经开放，以鼓励玩家建设更建筑，需要进行大规模建筑/项目的玩家可以联系【**德法 DeFeck**】获取进一步的帮助！
